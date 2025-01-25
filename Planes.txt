@@ -1,2 +1,0 @@
-"Planes" 
-"Boeing\Airbus\Cessna" 
