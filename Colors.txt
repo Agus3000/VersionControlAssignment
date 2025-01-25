@@ -1,2 +1,0 @@
-"Colors" 
-"Red\nBlue\nGreen" 
